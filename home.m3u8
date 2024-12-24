@@ -63,7 +63,8 @@ http://salatadeicre.store:8080/98:06:3c:97:f1:e4CBBogdan/49hMgFdqZRwerYCeeMXAJYD
 http://salatadeicre.store:8080/98:06:3c:97:f1:e4CBBogdan/49hMgFdqZRwerYCeeMXAJYDR0eDMsP/70469
 #EXTINF:-1,MD Regional TV ʜᴅ
 #EXTGRP:plus
-http://salatadeicre.store:8080/98:06:3c:97:f1:e4CBBogdan/49hMgFdqZRwerYCeeMXAJYDR0eDMsP/70470
+http://salatadeicre.store:8080/98:06:3c:97:f1:e4CBBogdan/49hMgFdqZRwerYCeeMXAJYDR0eDMsP/70470
+
 #EXTINF:-1,MD Star TV ʜᴅ
 #EXTGRP:plus
 http://salatadeicre.store:8080/98:06:3c:97:f1:e4CBBogdan/49hMgFdqZRwerYCeeMXAJYDR0eDMsP/70472
@@ -113,18 +114,3 @@ http://salatadeicre.store:8080/98:06:3c:97:f1:e4CBBogdan/49hMgFdqZRwerYCeeMXAJYD
 #EXTGRP:plus
 http://salatadeicre.store:8080/98:06:3c:97:f1:e4CBBogdan/49hMgFdqZRwerYCeeMXAJYDR0eDMsP/70490
 
-#EXTINF:-1,1
-#EXTGRP:canale
-http://osiris.stream.voidboost.cc/dc23ff33f9108138335e69ad53bc380d:2024122313:MHppWmNsaFN1dFF6M2hIN3ZCZXNOTGtVM3VrdmJBNUxFRnJWWjJUc1VCbkhzR1F3Y0tCZjBVU3J6cEJ1Y1VoSzI0cTA4NlZYdXgxV05uYm1NOW0vS1E9PQ==/3/4/4/1/1/9/sd8pu.mp4
-
-#EXTINF:-1,2
-#EXTGRP:canale
-http://c01.dinbox.tv/esuMlcmg4il1NISWE41JCNdWR/tracks-v1a1/mono.m3u8?token=8e64e617d71d2f027cb7e6e38dbb5e49
-
-#EXTINF:-1,3
-#EXTGRP:canale
-http://c01.dinbox.tv/esuMlcmg4il1NISWE41JCNdWR/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,4
-#EXTGRP:canale
-http://80.245.93.242:9030/play/a007/index.m3u8
