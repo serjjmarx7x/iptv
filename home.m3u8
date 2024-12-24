@@ -117,3 +117,6 @@ http://salatadeicre.store:8080/98:06:3c:97:f1:e4CBBogdan/49hMgFdqZRwerYCeeMXAJYD
 #EXTINF:-1,BCU Action HD" 
 #EXTGRP:plus
 http://de.seetv.cc/7100/video.m3u8?token=7FA4D480A3DCEF7
+
+#EXTINF:-1 tvg-id="" tvg-name="MD TVC21 ʜᴅ" tvg-logo="" group-title="plus",MD TVC21 ʜᴅ
+http://lepadat.ro:8080/AN2228677/pw1kRv7t2Bxy9EW0XKjvsfJ8QiqeAz/70481
