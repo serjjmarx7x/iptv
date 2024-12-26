@@ -1,5 +1,21 @@
 ﻿#EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="RU: Russkaya Komediya (РУССКАЯ КОМЕДИЯ)" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/cb443c216e4713c86b38a2ea9102a56a.png" group-title="RUSSIA VIP",RU: Russkaya Komediya (РУССКАЯ КОМЕДИЯ)
+http://neerd.site:80/bGJdp8A8DH/sxgZ5UZxZL/267716
+
+#EXTINF:-1 tvg-id="" tvg-name="RU: Russkiy Bestseller (Русский бестселлер)" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/c405b713fbab73addd7811be0f6976d2.png" group-title="RUSSIA VIP",RU: Russkiy Bestseller (Русский бестселлер)
+http://neerd.site:80/bGJdp8A8DH/sxgZ5UZxZL/267717
+
+#EXTINF:-1 tvg-id="" tvg-name="RU: Russkiy Detektiv (Русский Детектив)" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/8f198fff4f9c42d7205103e4fb4797be.png" group-title="RUSSIA VIP",RU: Russkiy Detektiv (Русский Детектив)
+http://neerd.site:80/bGJdp8A8DH/sxgZ5UZxZL/267718
+
+#EXTINF:-1 tvg-id="" tvg-name="RU: Russkiy Illusion (Русский Иллюзион)" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/3723ecb4d63353a7c521f2dc8000fb79.jpg" group-title="RUSSIA VIP",RU: Russkiy Illusion (Русский Иллюзион)
+http://neerd.site:80/bGJdp8A8DH/sxgZ5UZxZL/267719
+
+#EXTINF:-1 tvg-id="" tvg-name="RU: Russkiy Roman (Русский роман)" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/1b6f27d2849efdc400973e06fd7fa426.png" group-title="RUSSIA VIP",RU: Russkiy Roman (Русский роман)
+http://neerd.site:80/bGJdp8A8DH/sxgZ5UZxZL/267720
+
+
 #EXTINF:-1,MD Jurnal TV
 #EXTGRP:plus
 http://salatadeicre.store:8080/98:06:3c:97:f1:e4CBBogdan/49hMgFdqZRwerYCeeMXAJYDR0eDMsP/9237
