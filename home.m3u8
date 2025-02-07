@@ -1,5 +1,13 @@
 ﻿#EXTM3U
 
+#EXTINF:0 group-title="Comedy ua" tvg-logo="https://ip-tv.dev/epg/icon/tnt4.png"  audiotrack-icon=1 tvg-id="Xtnt4" tvg-name="ТНТ4" catchup-type="flussonic" catchup-days="5" catchup-icon="5", ТНТ4
+http://ua.seetv.cc/41/video.m3u8?token=7FA4D480A3DCEF7
+#EXTINF:0 group-title="Comedy ua" tvg-logo="https://ip-tv.dev/images/ico/minimax-sitkom.png"  audiotrack-icon=1 tvg-id="Xminimax-sitkom" tvg-name="MM Ситком HD" catchup-type="flussonic" catchup-days="5" catchup-icon="5", MM Ситком HD
+http://ua.seetv.cc/6039/video.m3u8?token=7FA4D480A3DCEF7
+#EXTINF:0 group-title="Other ua" tvg-logo="https://ip-tv.dev/images/ico/logo_snv_100.png"  audiotrack-icon=1 tvg-id="X6144" tvg-name="Мир наизнанку" catchup-type="flussonic" catchup-days="5" catchup-icon="5", Мир наизнанку
+http://ua.seetv.cc/6144/video.m3u8?token=7FA4D480A3DCEF7
+
+
 #EXTINF:-1 tvg-id="" tvg-name="RU: Russkiy Bestseller (Русский бестселлер)" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/c405b713fbab73addd7811be0f6976d2.png" group-title="RUSSIA VIP",RU: Russkiy Bestseller (Русский бестселлер)
 http://neerd.site:80/bGJdp8A8DH/sxgZ5UZxZL/267717
 
@@ -133,12 +141,5 @@ http://de.seetv.cc/7100/video.m3u8?token=7FA4D480A3DCEF7
 
 #EXTINF:-1 tvg-id="" tvg-name="MD TVC21 ʜᴅ" tvg-logo="" group-title="plus",MD TVC21 ʜᴅ
 http://lepadat.ro:8080/AN2228677/pw1kRv7t2Bxy9EW0XKjvsfJ8QiqeAz/70481
-
-#EXTINF:0 group-title="Comedy ua" tvg-logo="https://ip-tv.dev/epg/icon/tnt4.png"  audiotrack-icon=1 tvg-id="Xtnt4" tvg-name="ТНТ4" catchup-type="flussonic" catchup-days="5" catchup-icon="5", ТНТ4
-http://ua.seetv.cc/41/video.m3u8?token=7FA4D480A3DCEF7
-#EXTINF:0 group-title="Comedy ua" tvg-logo="https://ip-tv.dev/images/ico/minimax-sitkom.png"  audiotrack-icon=1 tvg-id="Xminimax-sitkom" tvg-name="MM Ситком HD" catchup-type="flussonic" catchup-days="5" catchup-icon="5", MM Ситком HD
-http://ua.seetv.cc/6039/video.m3u8?token=7FA4D480A3DCEF7
-#EXTINF:0 group-title="Other ua" tvg-logo="https://ip-tv.dev/images/ico/logo_snv_100.png"  audiotrack-icon=1 tvg-id="X6144" tvg-name="Мир наизнанку" catchup-type="flussonic" catchup-days="5" catchup-icon="5", Мир наизнанку
-http://ua.seetv.cc/6144/video.m3u8?token=7FA4D480A3DCEF7
 
 
