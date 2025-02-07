@@ -133,3 +133,9 @@ http://de.seetv.cc/7100/video.m3u8?token=7FA4D480A3DCEF7
 
 #EXTINF:-1 tvg-id="" tvg-name="MD TVC21 ʜᴅ" tvg-logo="" group-title="plus",MD TVC21 ʜᴅ
 http://lepadat.ro:8080/AN2228677/pw1kRv7t2Bxy9EW0XKjvsfJ8QiqeAz/70481
+
+#EXTINF:0 group-title="Comedy ua" tvg-logo="https://ip-tv.dev/epg/icon/tnt4.png"  audiotrack-icon=1 tvg-id="Xtnt4" tvg-name="ТНТ4" catchup-type="flussonic" catchup-days="5" catchup-icon="5", ТНТ4
+http://ua.seetv.cc/41/video.m3u8?token=7FA4D480A3DCEF7
+#EXTINF:0 group-title="Comedy ua" tvg-logo="https://ip-tv.dev/images/ico/minimax-sitkom.png"  audiotrack-icon=1 tvg-id="Xminimax-sitkom" tvg-name="MM Ситком HD" catchup-type="flussonic" catchup-days="5" catchup-icon="5", MM Ситком HD
+http://ua.seetv.cc/6039/video.m3u8?token=7FA4D480A3DCEF7
+
