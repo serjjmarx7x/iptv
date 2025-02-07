@@ -138,4 +138,7 @@ http://lepadat.ro:8080/AN2228677/pw1kRv7t2Bxy9EW0XKjvsfJ8QiqeAz/70481
 http://ua.seetv.cc/41/video.m3u8?token=7FA4D480A3DCEF7
 #EXTINF:0 group-title="Comedy ua" tvg-logo="https://ip-tv.dev/images/ico/minimax-sitkom.png"  audiotrack-icon=1 tvg-id="Xminimax-sitkom" tvg-name="MM Ситком HD" catchup-type="flussonic" catchup-days="5" catchup-icon="5", MM Ситком HD
 http://ua.seetv.cc/6039/video.m3u8?token=7FA4D480A3DCEF7
+#EXTINF:0 group-title="Other ua" tvg-logo="https://ip-tv.dev/images/ico/logo_snv_100.png"  audiotrack-icon=1 tvg-id="X6144" tvg-name="Мир наизнанку" catchup-type="flussonic" catchup-days="5" catchup-icon="5", Мир наизнанку
+http://ua.seetv.cc/6144/video.m3u8?token=7FA4D480A3DCEF7
+
 
